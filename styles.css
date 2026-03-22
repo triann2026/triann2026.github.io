@@ -1,0 +1,79 @@
+/* css styles */
+
+.card {
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-body {
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.hero {
+  background: #2e7d32;
+  color: white;
+  padding: 60px;
+  text-align: center;
+  border-radius: 15px;
+  margin-bottom: 40px;
+}
+
+.navbar {
+  background-color: #1b5e20 !important;
+}
+
+.navbar a {
+  color: white !important;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  color: #a5d6a7 !important;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-size: 20px;
+}
+
+.footer {
+  background-color: #1b5e20;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.footer a {
+  color: #a5d6a7;
+  text-decoration: none;
+}
+
+.whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25D366;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 50px;
+  font-size: 18px;
+  text-decoration: none;
+  box-shadow: 0 4px 10px gray;
+  z-index: 100;
+}
+

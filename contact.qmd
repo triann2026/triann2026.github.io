@@ -1,0 +1,13 @@
+---
+title: "Contact"
+---
+
+::: footer
+### TriAnn Integrated Farm
+
+📞 Phone: +4915510230189\
+📧 Email: triannfarm\@email.com\
+📍 Morogoro, Tanzania
+
+© 2026 TriAnn Integrated Farm
+:::

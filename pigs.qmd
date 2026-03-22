@@ -1,0 +1,22 @@
+---
+title: "Pigs"
+---
+
+### Pigs Available for Sale
+
+| ID   | Breed       | Age      | Weight | Price       | Status    |
+|------|-------------|----------|--------|-------------|-----------|
+| PG01 | Large White | 4 Months | 35kg   | 150,000 TZS | Available |
+| PG02 | Landrace    | 5 Months | 40kg   | 180,000 TZS | Available |
+
+::: footer
+### TriAnn Integrated Farm
+
+📞 Phone: +4915510230189\
+📧 Email: triannfarm\@email.com\
+📍 Morogoro, Tanzania
+
+© 2026 TriAnn Integrated Farm
+:::
+
+`<a href="https://wa.me/`{=html}4915510230189`?text=Hello%20I%20want%20to%20order%20from%20TriAnn%20Farm" class="whatsapp">`{=html} Order via WhatsApp </a>

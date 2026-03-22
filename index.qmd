@@ -1,0 +1,90 @@
+---
+title: ""
+---
+
+:::::::::::::::: hero
+
+------------------------------------------------------------------------
+
+# TriAnn Integrated Farm
+
+### Quality Livestock & Crop Production
+
+------------------------------------------------------------------------
+
+Welcome to **TriAnn Integrated Farm**
+
+We specialize in:
+
+::::::::::::::: grid
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+<a href="cattle.qmd">
+
+:::: card
+![](images/cattles/img3.jpg)
+
+::: {.card-body style="background:#e8f5e9;"}
+Diary Cattle
+:::
+::::
+
+</a>
+:::::
+
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+<a href="pigs.qmd">
+
+:::: card
+![](images/pigs/p_img4.jpeg)
+
+::: {.card-body style="background:#fce4ec;"}
+Pig Farming
+:::
+::::
+
+</a>
+:::::
+
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+<a href="ducks.qmd">
+
+:::: card
+![](images/ducks/d_img1.jpg)
+
+::: {.card-body style="background:#e3f2fd;"}
+Duck Farming
+:::
+::::
+
+</a>
+:::::
+
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+<a href="bananas.qmd">
+
+:::: card
+![](images/bananas/b_img4.jpeg)
+
+::: {.card-body style="background:#fff9c4;"}
+Banana Plantation
+:::
+::::
+
+</a>
+:::::
+:::::::::::::::
+::::::::::::::::
+
+------------------------------------------------------------------------
+
+::: footer
+### TriAnn Integrated Farm
+
+📞 Phone: +4915510230189 \
+📧 Email: triannfarm\@email.com\
+📍 Morogoro, Tanzania
+
+© 2026 TriAnn Integrated Farm
+:::
+
+`<a href="https://wa.me/`{=html}4915510230189`?text=Hello%20I%20want%20to%20order%20from%20TriAnn%20Farm" class="whatsapp">`{=html} Order via WhatsApp </a>

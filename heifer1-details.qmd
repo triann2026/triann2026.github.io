@@ -1,0 +1,14 @@
+---
+title: "Heifer 001"
+---
+
+![Heifer](images/cattles/img3.jpg){fig-align="center"}
+
+### Details
+
+-   Breed: Friesian
+-   Age: 18 Months
+-   Pregnant: Yes
+-   Dam: TZ010
+-   Sire: TZB01
+-   Price: 1,200,000 TZS

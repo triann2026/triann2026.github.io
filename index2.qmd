@@ -1,0 +1,31 @@
+---
+title: ""
+---
+
+# 🐄 TriAnn Integrated Farm
+
+### Quality Livestock & Crop Production
+
+------------------------------------------------------------------------
+
+Welcome to **TriAnn Integrated Farm**
+
+We specialize in:
+
+-   Dairy [Cattle](cattle.qmd)
+-   Pig Farming
+-   Duck Farming
+-   Banana Plantation
+
+------------------------------------------------------------------------
+
+## Our Products
+
+-   Heifers for Sale
+-   Pigs
+-   Ducks
+-   Bananas
+
+------------------------------------------------------------------------
+
+👉 Visit our product pages to see available stock

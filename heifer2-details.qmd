@@ -1,0 +1,24 @@
+---
+title: "Ayrshire 002"
+---
+
+![Heifer](images/cattles/img1.jpg)
+
+### Details
+
+-   Breed: Ayrshire
+-   Age: 12 Months
+-   Pregnant: No
+-   Dam: TZ010
+-   Sire: TZB02
+-   Price: 950,000 TZS
+
+::: footer
+### TriAnn Integrated Farm
+
+📞 Phone: +255XXXXXXXXX\
+📧 Email: triannfarm\@email.com\
+📍 Morogoro, Tanzania
+
+© 2026 TriAnn Integrated Farm
+:::
