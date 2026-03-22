@@ -1,33 +1,41 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "TriAnn Integrated Farm"
   navbar:
     pinned: true
     left:
-      - href: index.qmd
-        text: Home
-      - href: cattle.qmd
-        text: Cattle
-      - href: pigs.qmd
-        text: Pigs
-      - href: ducks.qmd
-        text: Ducks
-      - href: bananas.qmd
-        text: Bananas
-      - href: products.qmd
-        text: Products
-      - href: services.qmd
-        text: Services
-      - href: order.qmd
-        text: Order
-      - href: contact.qmd
-        text: Contact
+      - text: Home
+        href: index.qmd
+      - text: Livestock
+        menu:
+          - text: Cattle
+            href: cattle.qmd
+          - text: Pigs
+            href: pigs.qmd
+          - text: Ducks
+            href: ducks.qmd
+      - text: Crops
+        menu:
+          - text: Bananas
+            href: bananas.qmd
+          - text: Products
+            href: products.qmd
+      - text: Services
+        href: services.qmd
+      - text: Order
+        href: order.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/triann2026
+      - icon: linkedin
+        href: https://linkedin.com/in/triann2026
 
 format:
   html:
     theme: cosmo
     css: styles.css
-
-
